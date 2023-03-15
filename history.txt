@@ -1,0 +1,118 @@
+    1  git init
+    2  git --version
+    3  git config user.name
+    4  git config --global user.name
+    5  git add .
+    6  git reset
+    7  git rm
+    8  git log
+    9  touch abc.txt
+   10  history
+   11  git branch
+   12  clear
+   13  history
+   14  history >>history.txt
+   15  history
+   16  history >> history.txt
+   17  history
+   18  git pull
+   19  git pull origin master
+   20  mkdir JS
+   21  touch index.html
+   22  touch style .css
+   23  touch style.css
+   24  git init
+   25  git add .
+   26  git status
+   27  git commit -m "It's Me Jaweria"
+   28  git status
+   29  git remote add origin https://github.com/JaweriaEjaz/Project.git
+   30  https://github.com/JaweriaEjaz/Project.git
+   31  git push -u origin master
+   32  git pull origin
+   33  history
+   34  history >> hiostory.txt
+   35  git clone https://github.com/JaweriaEjaz/Project.git
+   36  code .
+   37  git status
+   38  cd Project
+   39  git status
+   40  git add .
+   41  git commit -m "modified file"
+   42  git push -u origin master
+   43  history >> history.txt
+   44  clear
+   45  exit
+   46  mkdir HTML
+   47  touch index.html
+   48  touch style.css
+   49  git init
+   50  git add .
+   51  git status
+   52  git commit -m "This is created by Jaweria"
+   53  git remote add origin https://github.com/JaweriaEjaz/2210f1.git
+   54  https://github.com/JaweriaEjaz/2210f1.git
+   55  git remote add origin https://github.com/JaweriaEjaz/2210f1.git
+   56  git branch -M main
+   57  https://github.com/JaweriaEjaz/2210f1.git
+   58  git remote add origin https://github.com/JaweriaEjaz/2210f1.git
+   59  git push -u origin main
+   60  git pull origin
+   61  git commit -m "This is me"
+   62  git push -u origin master
+   63  git remote add origin https://github.com/JaweriaEjaz/2210f1.git
+   64  https://github.com/JaweriaEjaz/2210f1
+   65  git add .
+   66  git commit -m "It's Me Jaweria"
+   67  https://github.com/JaweriaEjaz/2210f1
+   68  git push -u origin master
+   69  git init
+   70  git push -u origin master
+   71  git remote add origin https://github.com/JaweriaEjaz/2210f1
+   72  git push -u origin master
+   73  git init
+   74  git remote add origin https://github.com/JaweriaEjaz/2210f1
+   75  git push -u origin master
+   76  git pull origin
+   77  git status
+   78  git push -u origin master
+   79  git add .
+   80  git status
+   81  git push -u origin main
+   82  touch index.html
+   83  git init
+   84  git add .
+   85  git status
+   86  git push -u origin main
+   87  git remote add origin https://github.com/JaweriaEjaz/2210f1
+   88  git push -u origin main
+   89  https://github.com/JaweriaEjaz/2210f1
+   90  git init
+   91  git init
+   92  touch index.html
+   93  touch style.css
+   94  git init
+   95  git add .
+   96  git status
+   97  https://github.com/JaweriaEjaz/git.git
+   98  git remote add origin https://github.com/JaweriaEjaz/git.git
+   99  git push -u origin master
+  100  git remote add origin https://github.com/JaweriaEjaz/git.git
+  101  git branch -M main
+  102  git push -u origin main
+  103  [200~git push -u origin main~
+  104  git push -u origin main
+  105  mkdir abc
+  106  touch index.html
+  107  touch style.css
+  108  touch contact.html
+  109  git init
+  110  git add .
+  111  git commit -m "This is my first cmmit"
+  112  git branch -M main
+  113  git remote add origin https://github.com/JaweriaEjaz/session.git
+  114  git push -u origin main
+  115  history
+  116  history "history.txt"
+  117  history history.txt
+  118  history >> history.txt
